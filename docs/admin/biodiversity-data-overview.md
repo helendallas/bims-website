@@ -1,6 +1,6 @@
 # Administration of biodiversity data
 
-This section provides a guide for biodiversity data administrators to mobilize and ingest biodiversity data. The steps outlined are sequential and each provides details on the process and key considerations.
+This section provides a guide for biodiversity data administrators to mobilize and upload biodiversity data. The steps outlined are sequential and each provides details on the process and key considerations.
 
 > Only registered users with super user status, typically the site administrators, are able to view the administration sections and undertake the following steps related to the mobilization and ingestion of biodiversity data.
 
